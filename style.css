@@ -1,0 +1,31 @@
+.body_background
+{
+   background-color: rgb(253, 193, 193);
+
+}
+ 
+#myCanvas 
+{
+ border-width : 10px;
+ background-color : white;
+ border-style : ridge;
+ color : white;
+
+}
+
+.C {
+    background-color: rgb(255, 0, 55);
+    color : black;
+    width: 20%;
+    height : 10%;
+    font-size: 0.5cm;
+    font-family: Comic Sans MS;
+}
+
+.T {
+    background-color: red;
+    font-family: Comic Sans MS;
+    font-size: 2cm;
+    width: 40%;
+}
+
